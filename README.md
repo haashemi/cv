@@ -22,7 +22,7 @@ Epic-Center is an Iranian e-commerce website for in-game products.
 
 **Key Accomplishments**
 
-- Measured latency and error rate using OpenTelemetry, which improved the service's performance and reliability.
+- Detected and fixed bottlenecks by measuring latency and error rate using OpenTelemetry. Resulted in improving service performance and reliability.
 - Automated order process for Fortnite (game) gifting products by implementing a microservice to manage the in-game process.
 
 ### LlamaNite - Back-end developer
