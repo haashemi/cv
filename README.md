@@ -15,7 +15,7 @@ Junior back-end developer with 3+ years of experience, including 1+ years of pro
 
 ### Epic Center - Full-Stack developer
 
-_Aug 2022 - Now_\
+_Aug 2022 - Present_\
 Tech Stack: `Go`, `Gin`, `PGX`, `Typescript`, `Next.JS`, `PostgreSQL`, `Badger`, `Docker`, `OpenTelemetry`
 
 Epic-Center is an Iranian e-commerce website for in-game products.
@@ -27,7 +27,7 @@ Epic-Center is an Iranian e-commerce website for in-game products.
 
 ### LlamaNite - Back-end developer
 
-_Jan 2021 - Aug 2022_\
+_Jan 2021 - Aug 2022_ (1 year and 8 months)  
 Tech Stack: `Go`, `Iris`, `Entgo`, `SQLite`, `PostgreSQL`
 
 LlamaNite was an unofficial API and Telegram bot with +1K active users that provided Fortnite game news with auto generated images. As a member of team of two, I was responsible for adding features and optimizations to the core of the project.
@@ -44,7 +44,7 @@ LlamaNite was an unofficial API and Telegram bot with +1K active users that prov
 
 ### Bachelor of Computer Engineering; Islamic Azad University Bushehr, Iran
 
-_2022 - Now_
+_2022 - Present_
 
 --- -->
 
