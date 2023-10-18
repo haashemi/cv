@@ -15,8 +15,8 @@ Junior back-end developer with 3+ years of experience, including 1+ years of pro
 
 ### Epic Center - Full-Stack developer
 
-_Aug 2022 - Present_\
-Tech Stack: `Go`, `Gin`, `PGX`, `Typescript`, `Next.JS`, `PostgreSQL`, `Badger`, `Docker`, `OpenTelemetry`
+_Aug 2022 - Oct 2023_\
+Tech Stack: `Go`, `Gin`, `PGX`, `Typescript`, `Next.JS`, `PostgreSQL`, `Badger`, `OpenTelemetry`
 
 Epic-Center is an Iranian e-commerce website for in-game products.
 
