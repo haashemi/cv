@@ -6,8 +6,8 @@ Full-stack developer with 3+ years of professional experience. Proficient in dev
 
 ## Skills
 
-- Languages & Frameworks: `Go`, `JS/TS`, `Gin`, `Iris`, `Svelte`, `React`, `Next.JS`
-- Technologies: `PostgreSQL`, `Badger`, `Redis`, `Git`, `Docker`, `Nginx`
+- Languages & Frameworks: `Go`, `JS/TS`, `Gin`, `Iris`, `React`, `React Native`, `Next.JS`, `Svelte/Kit`
+- Technologies: `PostgreSQL`, `Badger`, `Redis`, `Git`, `Docker`, `Nginx`, `Sentry`
 
 ## Professional Experiences
 
