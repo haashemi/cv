@@ -1,6 +1,6 @@
 # Fullstack developer
 
-[E-Mail](mailto:contact@haashemi.dev) - [Github](https://github.com/haashemi) - [Website](https://haashemi.dev) - [Telegram](https://t.me/Byfron)
+[E-Mail](mailto:contact@haashemi.dev) - [Github](https://github.com/haashemi) - [Telegram](https://t.me/Byfron)
 
 Full-stack developer with 3+ years of professional experience. Proficient in developing and maintaining high-performance, secure, and reliable web applications. Passionate about maintaining open-source libraries and frameworks.
 
