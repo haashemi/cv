@@ -1,20 +1,20 @@
-# Fullstack developer
+# Backend Developer (Go)
 
-[E-Mail](mailto:contact@haashemi.dev) - [Github](https://github.com/haashemi) - [Telegram](https://t.me/Byfron)
+[E-Mail](mailto:contact@haashemi.dev) - [LinkedIn](https://www.linkedin.com/in/haashemi) - [Telegram](https://t.me/Byfron) - [Github](https://github.com/haashemi)
 
-Full-stack developer with 3+ years of professional experience. Proficient in developing and maintaining high-performance, secure, and reliable web applications. Passionate about maintaining open-source libraries and frameworks.
+Golang developer with +3 years of experience in developing and maintaining high-performance, secure, and reliable web applications. Passionate about developing open-source libraries and frameworks.
 
 ## Skills
 
-- Languages & Frameworks: `Go`, `JS/TS`, `Gin`, `Iris`, `React`, `React Native`, `Next.JS`, `Svelte/Kit`
-- Technologies: `PostgreSQL`, `Badger`, `Redis`, `Git`, `Docker`, `Nginx`, `Sentry`
+- Languages & Frameworks: `Go`, `JS/TS`, `Gin`, `Iris`, `React`, `React Native`, `Next.JS`, `Svelte/Kit`, `Flutter`
+- Technologies: `PostgreSQL`, `Badger`, `Redis`, `Rest API`, `gRPC`, `Git`, `Docker`, `Nginx`, `Sentry`, `OpenTelemetry`
 
-## Professional Experiences
+## Experiences
 
-### Epic Center - Fullstack developer
+### Epic Center - Software Engineer
 
 _Aug 2022 - Jan 2024 (1 year and 6 months)_\
-Tech Stack: `Go`, `JS/TS`, `Gin`, `Next.JS`, `PostgreSQL`, `Badger`, `OpenTelemetry`
+Tech Stack: `Go`, `JS/TS`, `Gin`, `PostgreSQL`, `Badger`, `Next.JS`, `OpenTelemetry`
 
 **Key Accomplishments**
 
@@ -23,10 +23,10 @@ Tech Stack: `Go`, `JS/TS`, `Gin`, `Next.JS`, `PostgreSQL`, `Badger`, `OpenTeleme
 - Improved the database's performance by indexing essential tables' columns.
 - Implemented an e-wallet system using the users' transaction history.
 
-### LlamaNite - Backend developer
+### LlamaNite - Software Engineer
 
 _Jan 2021 - Aug 2022 (1 year and 8 months)_\
-Tech Stack: `Go`, `Iris`, `Entgo`, `SQLite`, `PostgreSQL`
+Tech Stack: `Go`, `Iris`, `Ent`, `SQLite`, `PostgreSQL`
 
 **Key Accomplishments**
 
