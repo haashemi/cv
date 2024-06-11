@@ -6,7 +6,7 @@ Golang developer with +3 years of experience in developing and maintaining high-
 
 ## Skills
 
-- Languages & Frameworks: `Go`, `JS/TS`, `Gin`, `Iris`, `React`, `React Native`, `Next.JS`, `Svelte/Kit`, `Flutter`
+- Languages & Frameworks: `Go`, `JS/TS`, `Gin`, `Iris`, `React`, `React Native`, `Next.JS`, `Svelte/Kit`
 - Technologies: `PostgreSQL`, `Badger`, `Redis`, `Rest API`, `gRPC`, `Git`, `Docker`, `Nginx`, `Sentry`, `OpenTelemetry`
 
 ## Experiences
