@@ -2,7 +2,9 @@
 
 [E-Mail](mailto:contact@haashemi.dev) - [LinkedIn](https://www.linkedin.com/in/haashemi) - [Telegram](https://t.me/Byfron) - [Github](https://github.com/haashemi)
 
-Golang developer with +3 years of experience in developing and maintaining high-performance, secure, and reliable web applications. Passionate about developing open-source libraries and frameworks.
+Golang Developer with +4 years of experience as a freelance developer. Highly skilled in developing and maintaining
+high-performance REST APIs by following the industry standards. Passionate about developing internal, single-purpose,
+security-critical microservices and services. Developed successful backends with +2K active users.
 
 ## Skills
 
@@ -11,29 +13,35 @@ Golang developer with +3 years of experience in developing and maintaining high-
 
 ## Experiences
 
-### Epic Center - Software Engineer
+### Freelance - Software Engineer
+
+_June 2024 - Present_\
+Tech Stack: `Go`, `Typescript`, `Python`, `PostgreSQL`, `Minio`, `Docker`, `Logto`, `Echo`, `Iris`, `SQLC`, `PGX`, `Next.js`, `AntD`, `TailwindCSS`, 
+
+### [Epic Center - Full-Stack Developer](https://epic-center.ir)
 
 _Aug 2022 - Jan 2024 (1 year and 6 months)_\
 Tech Stack: `Go`, `JS/TS`, `Gin`, `PostgreSQL`, `Badger`, `Next.JS`, `OpenTelemetry`
 
 **Key Accomplishments**
 
-- Automated delivery of 100+ daily orders for a specific product type by designing and implementing a microservice.
-- Detect and fix bottlenecks by measuring latency and error rate using OpenTelemetry. Resulted in improving service performance and reliability.
-- Improved the database's performance by indexing essential tables' columns.
+- Automated delivery of 70% of daily orders by designing and implementing an internal microservice to manage the orders.
 - Implemented an e-wallet system using the users' transaction history.
+- Improved the database's performance by indexing essential tables' columns.
+- Detect and fix bottlenecks by measuring latency and error rate using OpenTelemetry. Resulted in improving service performance and reliability.
 
-### LlamaNite - Software Engineer
+### [LlamaNite - Back End Developer](https://www.haashemi.dev/exp/llamanite)
 
 _Jan 2021 - Aug 2022 (1 year and 8 months)_\
 Tech Stack: `Go`, `Iris`, `Ent`, `SQLite`, `PostgreSQL`
 
 **Key Accomplishments**
 
-- Automated posting of customized images of Fortnite's news to 15+ Telegram channels concurrently with the power of goroutines.
-- Reduced image re-renders by implementing an ISR (Incremental Static Regeneration)-like caching system for images' file IDs.
-- Reduced the memory usage by optimizing the cached image layers.
-- Improved image generation performance by 60% by generating the sub-layers concurrently on the main layer.
+- Implemented an open-source Telegram Bot framework from scratch in Go to fulfill the project requirements.
+- Generated custom images for each 15+ subscribers within 10 seconds of each Fortnite's news concurrently.
+- Reduced image re-renders by 90% by implementing a dynamic cache system for images' file IDs.
+- Reduced the memory usage of user-cusotmized image generations up to 50% by caching the main layer. 
+- Improved image generation performance up to 70% by generating the sub-layers concurrently on the main layer.
 
 ## Projects
 
